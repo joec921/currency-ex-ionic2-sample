@@ -27,8 +27,6 @@ $ ionic start xxx --v2 --ts
 Free JSON API of exchange rate: 
 http://fixer.io/ 
 
-used flag-icon-css to present flag
-https://github.com/lipis/flag-icon-css
 
 Enjoy!
 
